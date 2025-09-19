@@ -1,0 +1,33 @@
+=== РЕЗУЛЬТАТЫ ОБЪЕДИНЕНИЯ ДУБЛИКАТОВ ===
+
+Конкурент: Komus
+Дата формирования отчета: 2025-09-04 10:22:52.783507
+
+Всего объединено товаров: 1
+
+Артикул:  2254699
+Мастер-товар ID: 10328025
+
+ДО объединения:
+  Мастер-товар: 2 записей истории, 0 рекомендаций, 1 записей информации
+  Подчинённый товар 1 (ID: 9213296): 4 записей истории, 0 рекомендаций, 1 записей информации
+
+ПОСЛЕ объединения:
+  Мастер-товар: 2 записей истории, 0 рекомендаций, 1 записей информации
+  ⚠ Проблема с переносом истории: ожидалось 6, получено 2
+
+История изменений (первые 10 записей из 2):
+--------------------------------------------------------------------------------
+Дата: 2025-07-31 12:20:39.645991
+URL: https://www.komus.ru/katalog/tekhnika/tv-audio-video-foto/professionalnoe-audio-i-stsenicheskoe-oborudovanie/provodnye-mikrofony/mikrofon-shure-pga58-xlr-e-a146645-/p/2254699/?from=block-301-0_19
+Каталог: https://www.komus.ru/katalog/tekhnika/tv-audio-video-foto/professionalnoe-audio-i-stsenicheskoe-oborudovanie/provodnye-mikrofony/c/317000/?from=c-0
+Цены: {'2': {'price': 6190.0}}
+----------------------------------------
+Дата: 2025-07-30 14:18:45.836705
+URL: https://www.komus.ru/katalog/tekhnika/tv-audio-video-foto/professionalnoe-audio-i-stsenicheskoe-oborudovanie/provodnye-mikrofony/mikrofon-shure-pga58-xlr-e-a146645-/p/2254699/?from=block-301-0_29
+Каталог: https://www.komus.ru/katalog/tekhnika/tv-audio-video-foto/professionalnoe-audio-i-stsenicheskoe-oborudovanie/provodnye-mikrofony/c/317000/?from=c-0
+Цены: {'2': {'price': 6190.0}}
+----------------------------------------
+
+================================================================================
+

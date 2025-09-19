@@ -1,0 +1,38 @@
+=== РЕЗУЛЬТАТЫ ОБЪЕДИНЕНИЯ ДУБЛИКАТОВ ===
+
+Конкурент: Komus
+Дата формирования отчета: 2025-09-03 22:04:46.315241
+
+Всего объединено товаров: 1
+
+Артикул:  141149
+Мастер-товар ID: 10352542
+
+ДО объединения:
+  Мастер-товар: 3 записей истории, 0 рекомендаций, 1 записей информации
+  Подчинённый товар 1 (ID: 3648185): 8 записей истории, 0 рекомендаций, 1 записей информации
+
+ПОСЛЕ объединения:
+  Мастер-товар: 3 записей истории, 0 рекомендаций, 1 записей информации
+  ⚠ Проблема с переносом истории: ожидалось 11, получено 3
+
+История изменений (первые 10 записей из 3):
+--------------------------------------------------------------------------------
+Дата: 2025-08-18 19:29:25.565379
+URL: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/kreslo-ofisnoe-klio-sinee-setka-tkan-metall-/p/141149/?from=block-301-4_1
+Каталог: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/c/116004/?from=c-0
+Цены: {'2': {'date': '14-08-2025 17:55:01', 'price': 8779.0}}
+----------------------------------------
+Дата: 2025-08-14 17:55:01.456686
+URL: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/kreslo-ofisnoe-klio-sinee-setka-tkan-metall-/p/141149/?from=block-301-2_7
+Каталог: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/c/116004/?from=c-0
+Цены: {'2': {'date': '14-08-2025 17:55:01', 'price': 8779.0}}
+----------------------------------------
+Дата: 2025-08-01 11:42:26.218589
+URL: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/kreslo-ofisnoe-klio-sinee-setka-tkan-metall-/p/141149/?from=block-301-2_25
+Каталог: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/c/116004/?from=c-0
+Цены: {'2': {'price': 8784.0}}
+----------------------------------------
+
+================================================================================
+

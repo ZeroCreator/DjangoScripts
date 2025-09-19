@@ -1,0 +1,40 @@
+=== РЕЗУЛЬТАТЫ ОБЪЕДИНЕНИЯ ДУБЛИКАТОВ ===
+
+Конкурент: Komus
+Дата формирования отчета: 2025-09-03 21:49:01.095228
+
+Всего объединено товаров: 1
+
+Артикул:  1988404
+Мастер-товар ID: 10328010
+Записей истории: 3
+Рекомендаций: 0
+Информация о товаре: 2025-08-12 19:08:15.643659
+
+История изменений:
+--------------------------------------------------------------------------------
+Дата: 2025-07-31 12:20:39.644174
+URL: https://www.komus.ru/katalog/tekhnika/tv-audio-video-foto/professionalnoe-audio-i-stsenicheskoe-oborudovanie/provodnye-mikrofony/mikrofon-shure-mv5-b-dig/p/1988404/?from=block-301-0_14
+Каталог: https://www.komus.ru/katalog/tekhnika/tv-audio-video-foto/professionalnoe-audio-i-stsenicheskoe-oborudovanie/provodnye-mikrofony/c/317000/?from=c-0
+Цены: {'2': {'price': 13590.0}}
+----------------------------------------
+Дата: 2025-07-30 14:15:27.182882
+URL: https://www.komus.ru/katalog/tekhnika/tv-audio-video-foto/professionalnoe-audio-i-stsenicheskoe-oborudovanie/provodnye-mikrofony/mikrofon-shure-mv5-b-dig/p/1988404/?from=block-301-0_25
+Каталог: https://www.komus.ru/katalog/tekhnika/tv-audio-video-foto/professionalnoe-audio-i-stsenicheskoe-oborudovanie/provodnye-mikrofony/c/317000/?from=c-0
+Цены: {'2': {'price': 13590.0}}
+----------------------------------------
+Дата: 2025-07-29 19:56:53.377953
+URL: https://www.komus.ru/katalog/tekhnika/tv-audio-video-foto/professionalnoe-audio-i-stsenicheskoe-oborudovanie/provodnye-mikrofony/mikrofon-shure-mv5-b-dig/p/1988404/?from=block-301-0_14
+Каталог: https://www.komus.ru/katalog/tekhnika/tv-audio-video-foto/professionalnoe-audio-i-stsenicheskoe-oborudovanie/provodnye-mikrofony/c/317000/?from=c-0
+Цены: {'2': {'price': 13590.0}}
+----------------------------------------
+
+================================================================================
+
+ДЕТАЛЬНАЯ ИНФОРМАЦИЯ О ПЕРЕНОСЕ:
+================================================================================
+Подчинённый товар ID: None
+Перенесено на мастер-товар ID: 10328010
+Перенесено записей истории: 3 (было: 3)
+Перенесено рекомендаций: 0 (было: 0)
+--------------------------------------------------------------------------------

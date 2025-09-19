@@ -1,0 +1,45 @@
+=== РЕЗУЛЬТАТЫ ОБЪЕДИНЕНИЯ ДУБЛИКАТОВ ===
+
+Конкурент: Komus
+Дата формирования отчета: 2025-09-03 21:53:11.378675
+
+Всего объединено товаров: 1
+
+Артикул:  1125791
+Мастер-товар ID: 10352547
+Записей истории: 4
+Рекомендаций: 0
+Информация о товаре: 2025-08-20 15:06:04.764625
+
+История изменений:
+--------------------------------------------------------------------------------
+Дата: 2025-08-18 19:29:25.565379
+URL: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/kreslo-ofisnoe-komus-mebel-304-lt-seroe-chernoe-setka-tkan-plastik-/p/1125791/?from=block-301-4_19
+Каталог: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/c/116004/?from=c-0
+Цены: {'2': {'date': '15-08-2025 12:33:22', 'price': 4857.0}}
+----------------------------------------
+Дата: 2025-08-14 17:55:01.457036
+URL: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/kreslo-ofisnoe-komus-mebel-304-lt-seroe-chernoe-setka-tkan-plastik-/p/1125791/?from=block-301-4_4
+Каталог: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/c/116004/?from=c-0
+Цены: {'2': {'date': '12-08-2025 13:47:55', 'price': 5558.0}}
+----------------------------------------
+Дата: 2025-08-13 16:16:56.463779
+URL: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/kreslo-ofisnoe-komus-mebel-304-lt-seroe-chernoe-setka-tkan-plastik-/p/1125791/?from=block-301-3_19
+Каталог: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/c/116004/?from=c-0
+Цены: {'2': {'date': '12-08-2025 13:47:55', 'price': 5558.0}}
+----------------------------------------
+Дата: 2025-08-01 11:42:26.218589
+URL: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/kreslo-ofisnoe-komus-mebel-304-lt-seroe-chernoe-setka-tkan-plastik-/p/1125791/?from=block-301-3_1
+Каталог: https://www.komus.ru/katalog/mebel/ofisnye-kresla-i-stulya/kresla-ofisnye-/c/116004/?from=c-0
+Цены: {'2': {'price': 5053.0}}
+----------------------------------------
+
+================================================================================
+
+ДЕТАЛЬНАЯ ИНФОРМАЦИЯ О ПЕРЕНОСЕ:
+================================================================================
+Подчинённый товар ID: None
+Перенесено на мастер-товар ID: 10352547
+Перенесено записей истории: 6 (было: 6)
+Перенесено рекомендаций: 0 (было: 0)
+--------------------------------------------------------------------------------
